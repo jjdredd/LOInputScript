@@ -1,1 +1,1 @@
-** VBA script for Libre Office to improve input entry
+** VBA script for Libre Office to improve data entry
